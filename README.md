@@ -22,7 +22,7 @@ Fantasy Dungeons - изометрическая 2D RPG игра с открыт�
 <details>
   <summary>Скриншот глобальной карты</summary>
   
-  ![Скриншот глобальной карты](https://github.com/xWolframx/FantasyDungeons/raw/main/Screenshot/GlobalMapWIP.PNG)
+  ![Скриншот тестовой глобальной карты](https://github.com/xWolframx/FantasyDungeons/raw/main/Screenshot/GlobalMapWIP.PNG)
   
 </details>
 <details>
