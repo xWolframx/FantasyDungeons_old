@@ -20,3 +20,4 @@ Fantasy Dungeons - изометрическая 2D RPG игра с открыт�
 
 ## Скриншоты Fantasy Dungeons Prototype v 1.4.0
 ![Скриншот глобальной карты](https://github.com/xWolframx/FantasyDungeons/raw/main/Screenshot/GlobalMapWIP.PNG)
+![Скриншот тестовой карты локации](https://github.com/xWolframx/FantasyDungeons/raw/main/Screenshot/LocationMapWIP.png)
