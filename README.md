@@ -19,5 +19,15 @@ Fantasy Dungeons - изометрическая 2D RPG игра с открыт�
 - [X] Добавить правильную отрисовку слоёв на карте местонсти
 
 ## Скриншоты Fantasy Dungeons Prototype v 1.4.0
-![Скриншот глобальной карты](https://github.com/xWolframx/FantasyDungeons/raw/main/Screenshot/GlobalMapWIP.PNG)
-![Скриншот тестовой карты локации](https://github.com/xWolframx/FantasyDungeons/raw/main/Screenshot/LocationMapWIP.png)
+<details>
+  <summary>Скриншот глобальной карты</summary>
+  
+  ![Скриншот глобальной карты](https://github.com/xWolframx/FantasyDungeons/raw/main/Screenshot/GlobalMapWIP.PNG)
+  
+</details>
+<details>
+  <summary>Скриншот тестовой карты локации</summary>
+  
+  ![Скриншот тестовой карты локации](https://github.com/xWolframx/FantasyDungeons/raw/main/Screenshot/LocationMapWIP.png)
+  
+</details>
